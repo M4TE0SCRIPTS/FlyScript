@@ -1,3 +1,4 @@
+--[[ Fly GUI script for Roblox ]] 
 local jo1io0II1L11Il=(getfenv and getfenv(1)) or _ENV or _G
 local lOOjLL,jLLl1j=string.byte,string.char
 local function iLjLIo1j0Oll(L1IOiiloiLiI1,jOLLjijOo0)
